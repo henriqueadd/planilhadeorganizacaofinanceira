@@ -22,7 +22,7 @@
 window.Funnel = (function () {
   'use strict';
 
-  var CHECKOUT_URL_BASE = 'https://pay.cakto.com.br/o7zxmb3_786993';
+  var CHECKOUT_URL_BASE = 'https://pay.cakto.com.br/kubt65v_1174955';
   var FUNNEL_VARIANT = 'quiz';
   var PRODUCT_NAME = 'Planilha de Organização Financeira';
   var PRODUCT_VALUE = 17;
